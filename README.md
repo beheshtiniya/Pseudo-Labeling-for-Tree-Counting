@@ -7,8 +7,13 @@ This code is adapted from the GitHub repository at:
 
 The script train.py is executed via main.py.
 
-The final dataset that yielded the best evaluation metrics is
-available at 
-🔗 https://yun.ir/u0veu2
+
+If your goal after training is solely to predict the center coordinates of trees, you can simply run the script:
+test just for predict.py
+
+The final outputs of this work—including the optimized dataset, trained model, and corresponding weights—are available at:
+🔗 https://yun.ir/0bl1a3
+
+
 
 
